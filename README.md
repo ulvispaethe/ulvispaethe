@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ulvispaethe@gmail.com**
 
-- ⚡ Fun fact **I love Vader**
+- ⚡ Fun fact **I love Vader :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
