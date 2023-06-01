@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvispaethe&label=Profile%20views&color=0e75b6&style=flat" alt="ulvispaethe" /> </p>
 
-- 🌱 I’m currently learning **Typescript,Next.js,Node.js**
+- 🌱 I’m currently learning **Typescript, Next.js, Node.js**
 
 - 💬 Ask me about **React, JavaScript, HTML/CSS/SCSS, Jqeury, Bootstrap, ExpressJS, MongoDB**
 
